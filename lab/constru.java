@@ -1,3 +1,5 @@
+/*Write a program to implement constructor overloading by passing different number of parameter of different types.*/
+
 public class constru {
     String name;
     String usn;
