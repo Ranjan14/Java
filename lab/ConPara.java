@@ -1,3 +1,5 @@
+/*Implement a constructor which accepts object as parameter.*/
+
 public class ConPara {
     String name;
     String usn;
