@@ -1,3 +1,8 @@
+/*Write a JAVA program to implement class mechanism. – Create a class Student to read studentname, usn,dept, marks1,marks2,marks3,marks4,marks 5,marks 6 
+implement method to read the information and calculate the average marks*/
+
+
+
 import java.util.Scanner;
 /*class Stu{
     
